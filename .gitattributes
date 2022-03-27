@@ -11,3 +11,4 @@
 /Test/              export-ignore
 /screenshots        export-ignore
 /screenshots/       export-ignore
+project.godot       export-ignore
